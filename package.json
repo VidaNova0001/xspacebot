@@ -1,0 +1,21 @@
+{
+  "name": "imworkiing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/auth": "^0.13.3",
+    "discord.js": "^11.5.1",
+    "firebase": "^7.2.0",
+    "lstat": "^1.0.0",
+    "moment": "^2.24.0",
+    "self": "^1.0.0"
+  }
+}
